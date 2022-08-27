@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "todo": [
+    {
+      "text": "Learn coding",
+      "status": false,
+      "id": 3,
+      "true": ""
+    },
+    {
+      "text": "learn axios",
+      "status": false,
+      "id": 4
+    },
+    {
+      "text": "learn css",
+      "status": false,
+      "id": 5
+    },
+    {
+      "text": "javaa",
+      "status": false,
+      "id": 7
+    },
+    {
+      "text": "learn fetch",
+      "status": false,
+      "id": 8
+    },
+    {
+      "text": "js",
+      "status": false,
+      "id": 9
+    }
+  ]
+}
